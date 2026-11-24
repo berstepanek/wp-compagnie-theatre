@@ -84,18 +84,6 @@ final class PostType
 function post_types(): array
 {
     return [
-        
-        
-        new PostType([
-            'key'            => 'projects',
-            'singular'       => 'Project',
-            'plural'         => 'Projects',
-            'feminine'       => false,
-            'slug'           => 'projects',
-            'icon'           => 'dashicons-groups',
-            'graphql_single' => 'project',
-            'graphql_plural' => 'projects',
-        ]),
         new PostType([
             'key'            => 'members',
             'singular'       => 'Membre',

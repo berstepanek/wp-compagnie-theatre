@@ -8,7 +8,7 @@ defined('ABSPATH') || exit;
  *   define('HEADLESS_FRONTEND_URL', 'https://mon-site.com');
  *   define('HEADLESS_PREVIEW_SECRET', 'une-cle-secrete');
  */
-defined('HEADLESS_FRONTEND_URL') || define('HEADLESS_FRONTEND_URL', 'https://expertises-bati-ancien.fr');
+defined('HEADLESS_FRONTEND_URL') || define('HEADLESS_FRONTEND_URL', 'https://compagnie-theatre.fr');
 
 /**
  * Redirige tout le front WordPress vers Next.js.
