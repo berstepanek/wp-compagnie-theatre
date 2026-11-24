@@ -19,7 +19,7 @@
 
 // ** Réglages MySQL - Votre hébergeur doit vous fournir ces informations. ** //
 /** Nom de la base de données de WordPress. */
-define('DB_NAME', 'stepanekb_sangmele');
+define('DB_NAME', 'stepanekb_compagnie_theatre');
 
 /** MySQL database username */
 define('DB_USER', 'stepanekb_bd_admin');
